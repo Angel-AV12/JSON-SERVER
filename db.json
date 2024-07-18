@@ -1,0 +1,79 @@
+{
+  "profesores": [
+    {
+      "Nombre": "Angel",
+      "Apellido": "Alvarez",
+      "Materias": [
+        {
+          "Nombre": "Node"
+        },
+        {
+          "Nombre": "Javascript"
+        },
+        {
+          "Nombre": "Angular"
+        },
+        {
+          "Nombre": "PHP"
+        }
+      ],
+      "id": "c3e1"
+    },
+    {
+      "0": {
+        "Nombre": "Noel",
+        "Apellido": "Lara",
+        "Materias": [
+          {
+            "Nombre": "Trabajo de grado"
+          },
+          {
+            "Nombre": "Pasantia"
+          },
+          {
+            "Nombre": "Proyecto"
+          }
+        ],
+        "id": "c3e1"
+      },
+      "id": "9938"
+    }
+  ],
+  "alumnos": [
+    {
+      "Nombre": "Pepe",
+      "Apellido": "Ramirez",
+      "Promedio": "8",
+      "id": "377f"
+    },
+    {
+      "Nombre": "Maria",
+      "Apellido": "Quindisaca",
+      "Promedio": "9",
+      "id": "e67b"
+    },
+    {
+      "id": "7db0",
+      "Nombre": "Jorge",
+      "Apellido": "Curioso",
+      "Promedio": "8"
+    }
+  ],
+  "cursos": [
+    {
+      "Nombre": "Node",
+      "Dificultad": "Media",
+      "id": "1fe7"
+    },
+    {
+      "Nombre": "Javascript",
+      "Dificultad": "Facil",
+      "id": "c2f6"
+    },
+    {
+      "Nombre": "Angular",
+      "Dificultad": "Media",
+      "id": "6ada"
+    }
+  ]
+}
